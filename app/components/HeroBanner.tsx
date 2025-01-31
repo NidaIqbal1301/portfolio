@@ -8,12 +8,12 @@ const HeroBanner = () => {
       {/* Left Side - Text */}
       <div className="flex flex-col gap-6 md:gap-8 md:justify-self-start">
         <h1 className="text-3xl font-bold md:text-4xl lg:text-6xl">
-          <span className="text-[#A594fd]">Hello, I'm Nida Iqbal,</span>
+          <span className="text-[#A594fd]">Hello, I am Nida Iqbal,</span>
           <br />
           Frontend Developer
         </h1>
         <p className="text-sm text-gray-400 md:text-lg">
-          I’m a passionate frontend developer dedicated to crafting visually
+          I am a passionate frontend developer dedicated to crafting visually
           stunning and intuitive user experiences. I transform complex problems
           into elegant, functional digital solutions.
         </p>

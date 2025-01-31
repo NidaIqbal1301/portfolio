@@ -9,7 +9,7 @@ const Achievement = () => {
       <h1 className="my-8 text-3xl font-semibold md:my-20">Achievement</h1>
 
       <p className="text-sm text-gray-400 md:text-lg">
-        "Selected as 'Rising Star' at GIAIC for outstanding performance."
+        Selected as Rising Star at GIAIC for outstanding performance.
       </p>
     </section>
   );
